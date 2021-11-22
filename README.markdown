@@ -16,6 +16,8 @@ areas can be calculated as follows:
 > square are denoted as A<sub>square</square>
 >> r²
 
+![graph](pi_graph.png)
+
 Their quotient will produce as a result the value of π:
 > A<sub>inner</sub> / A<sub>square</square> = ((πr²)/4) / r²
 
