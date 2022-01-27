@@ -2,6 +2,8 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/Alex_in_the_World/pen/rNzrZbE](https://codepen.io/Alex_in_the_World/pen/rNzrZbE).
 
+See it also live on [Github page](https://alexintheworld.github.io/calculate-pi/)
+
 *An interactive display aimed at showing how PI can be calculated using mathematical principles*
 
 _____
